@@ -1,0 +1,13 @@
+class Threenumber{
+public static void main(String args[]){
+int num=1;
+int num=2;
+int num=3;
+ if(num1==num2&&num2==num3)
+            System.out.println("num is equal");
+   else
+            System.out.println("num is not equal");
+
+}
+}
+ 
